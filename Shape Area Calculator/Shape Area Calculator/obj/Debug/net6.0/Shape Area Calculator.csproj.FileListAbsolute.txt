@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\Shape Area Calculator\Shape Area Calculator\bin\Debug\net6.0\Shape Area Calculator.exe
+C:\Users\danie\source\repos\Shape Area Calculator\Shape Area Calculator\bin\Debug\net6.0\Shape Area Calculator.deps.json
+C:\Users\danie\source\repos\Shape Area Calculator\Shape Area Calculator\bin\Debug\net6.0\Shape Area Calculator.runtimeconfig.json
+C:\Users\danie\source\repos\Shape Area Calculator\Shape Area Calculator\bin\Debug\net6.0\Shape Area Calculator.dll
+C:\Users\danie\source\repos\Shape Area Calculator\Shape Area Calculator\bin\Debug\net6.0\Shape Area Calculator.pdb
+C:\Users\danie\source\repos\Shape Area Calculator\Shape Area Calculator\obj\Debug\net6.0\Shape Area Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Shape Area Calculator\Shape Area Calculator\obj\Debug\net6.0\Shape Area Calculator.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Shape Area Calculator\Shape Area Calculator\obj\Debug\net6.0\Shape Area Calculator.AssemblyInfo.cs
+C:\Users\danie\source\repos\Shape Area Calculator\Shape Area Calculator\obj\Debug\net6.0\Shape Area Calculator.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Shape Area Calculator\Shape Area Calculator\obj\Debug\net6.0\Shape Area Calculator.dll
+C:\Users\danie\source\repos\Shape Area Calculator\Shape Area Calculator\obj\Debug\net6.0\refint\Shape Area Calculator.dll
+C:\Users\danie\source\repos\Shape Area Calculator\Shape Area Calculator\obj\Debug\net6.0\Shape Area Calculator.pdb
+C:\Users\danie\source\repos\Shape Area Calculator\Shape Area Calculator\obj\Debug\net6.0\Shape Area Calculator.genruntimeconfig.cache
+C:\Users\danie\source\repos\Shape Area Calculator\Shape Area Calculator\obj\Debug\net6.0\ref\Shape Area Calculator.dll
